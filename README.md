@@ -1,6 +1,6 @@
 Example install from source:
 - First install python 3.6+
-- Navigate to /mortgage-toolkit and enter pip install . in the same repo as setup.py
+- Navigate to /mortgage-toolkit and enter command "pip install ." in the same repo as setup.py
 
 
 Example pyinstaller build executable:
